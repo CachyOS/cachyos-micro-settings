@@ -12,6 +12,7 @@ sha512sums=('SKIP')
 depends=('micro')
 install=$pkgname.install
 provides=('cachyos-micro-settings')
+groups=('cachyos')
 
 package() {
     install -d $pkgdir/etc
