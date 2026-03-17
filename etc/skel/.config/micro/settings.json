@@ -1,4 +1,7 @@
 {
     "colorscheme": "catppuccin-macchiato",
-    "clipboard": "terminal"
+    "clipboard": "terminal",
+    "scrollbar": true,
+    "tabstospaces": true,
+    "hlsearch": true
 }
